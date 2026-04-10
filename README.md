@@ -10,7 +10,7 @@ A simple and fun web application that generates random hex color codes with a be
 - 🎨 Clean and modern UI
 
 ## 🌐 Live Demo
-Check out the live version here: [https://iam269.github.io/Random-Hex-Color-Code/](https://iam269.github.io/Random-Hex-Color-Code/)
+Check out the live version here: [https://itsiamdev.github.io/Random-Hex-Color-Code/](https://itsiamdev.github.io/Random-Hex-Color-Code/)
 
 ## 🛠️ Technologies Used
 - HTML5 🏗️
